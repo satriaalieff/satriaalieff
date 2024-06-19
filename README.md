@@ -1,6 +1,5 @@
-# Haloo saya **Satria Alief**
-Seorang Mahasiswa di **Universitas Padjadjaran** yang tertarik pada bidang Web Development, terutama bidang Front-End.\
-Saya menguasai bahasa pemrograman seperti, JavaScript, HTML, CSS, PHP, C++, Python. Serta dapat menguasai beberapa framework yang *up-to-date*. <br>
+# Hi, **Satria** here
+Student who are interested in Web Development, especially Front-End. Mastering several programming languages, especially JavaScript. Can fully utilize several Web Development technologies, such as Vue.js, Webpack, Tailwind, Git. Currently learning to master React. <br>
 
 <p align="left">
 <a href="https://github.com/satriaalieff">
@@ -9,5 +8,5 @@ Saya menguasai bahasa pemrograman seperti, JavaScript, HTML, CSS, PHP, C++, Pyth
 </a>
 </p>
 
-Jika tertarik, silahkan kunjungin saya.\
-[Instagram](https://www.instagram.com/satriaalieff/), [LinkedIn](https://www.linkedin.com/in/satriaalieff/).
+Check this out.\
+[Portfolio](https://satriaalieff.netlify.app), [Instagram](https://www.instagram.com/satriaalieff/), [LinkedIn](https://www.linkedin.com/in/satriaalieff/).
